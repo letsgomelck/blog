@@ -1,2 +1,1 @@
-# blog
-letsgomelck.github.io/blog/
+# Hello VuePress!
